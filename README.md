@@ -11,9 +11,9 @@
 ---
 ## Routes
 
-+ GET - '/'
-+ GET - '/encrypts/:id'
-+ POST - '/encrypts'
++ GET - /
++ GET - /encrypts/:id
++ POST - /encrypts
 ---
 ## Observations 
 + To dowload the packages use NPM install
