@@ -16,6 +16,7 @@
 + POST - '/encrypts'
 ---
 ## Observations 
++To dowload the packages use NPM install
 + You can change the NPM start to node instead nodemon
 + Don't forget to change the file (.env_example) to (.env )
 + On .env put all your variables 
