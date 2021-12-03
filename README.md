@@ -16,12 +16,12 @@
 + POST - '/encrypts'
 ---
 ## Observations 
-+To dowload the packages use NPM install
++ To dowload the packages use NPM install
 + You can change the NPM start to node instead nodemon
 + Don't forget to change the file (.env_example) to (.env )
 + On .env put all your variables 
 + Server will run in localhost !
-+ if you still have doubts watch the [video](https://www.youtube.com/watch?v=SAHjdua-wYs)
++ If you still have doubts watch the [video](https://www.youtube.com/watch?v=SAHjdua-wYs)
 ---
 ## Technologies Used:
 
