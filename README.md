@@ -20,6 +20,7 @@
 + Don't forget to change the file (.env_example) to (.env )
 + On .env put all your variables 
 + Server will run in localhost !
++ if you still have doubts watch the [video](https://www.youtube.com/watch?v=SAHjdua-wYs)
 ---
 ## Technologies Used:
 
