@@ -2,18 +2,18 @@
 
 >Status: Finished ✔️
 
-### That's a challenge created by Facile, and this is my code solving this problem 💡
+### That's a challenge created by Facile, and this is my code solving this problem 💡 Objective was to create a encryptor using NodeJs.
 ---
 ## Sistem functions 
-+ Add a new name and encrypt
++ Add a new name and encrypt 
 + Validate the name and the routes
 + Decrypt if you send the ID
 ---
 ## Routes
 
-+ GET - /
-+ GET - /encrypts/:id
-+ POST - /encrypts
++ GET - /  ```(Receive a JSON saying a message, and my GitHub)```
++ GET - /encrypts/:id  ```(Receive a JSON with the object data of the sent ID)```
++ POST - /encrypts   ```(Encrypt the name received and save on DataBase)```
 ---
 ## Observations 
 + To dowload the packages use NPM install
