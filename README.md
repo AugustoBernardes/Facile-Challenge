@@ -50,7 +50,7 @@ Sistem : [https://facile-challeng.herokuapp.com/](https://facile-challeng.heroku
 
 ---
 
-<h2 align='center'>authors</h2>
+<h2 align='center'>author</h2>
 <div align='center'>
   Made with ❤️ by <a href="https://github.com/AugustoBernardes">Augusto</a>
 </div>
