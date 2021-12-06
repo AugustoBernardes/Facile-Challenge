@@ -19,10 +19,10 @@ const loadHomePage = (req,res) => {
 
 // Encrypt
 const encrypting = async (req,res) => {
-    // Getting Name
-    let receivedName = req.body.name.trim()
-
+    
     try {
+        // Getting Name
+        let receivedName = req.body.name.trim()
 
         if(receivedName === ''){
             res.status(400)
@@ -54,9 +54,9 @@ const encrypting = async (req,res) => {
     } catch (error) {
 
         res.status(400)
-        console.error({
-            code:"INTERNAL_ERROR",
-            message:"Happened a error !"
+        res.send({
+            code:"VALIDATION_FAILURE",
+            message:"The input (NAME) is mandatory!"
         })
     }
     
