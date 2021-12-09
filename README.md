@@ -42,13 +42,6 @@
   $ npm install express
 ```
 ---
-## How to test ?
-
-To test it just use the link bellow : 
-
-Sistem : [https://facile-challeng.herokuapp.com/](https://facile-challeng.herokuapp.com/)
-
----
 
 <h2 align='center'>author</h2>
 <div align='center'>
